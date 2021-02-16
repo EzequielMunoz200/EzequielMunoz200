@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a WordPress project.
-- 🌱 I’m currently learning [Svelte](https://svelte.dev/)
+- 🌱 I’m currently learning Docker and React
 <!--
 **EzequielMunoz200/EzequielMunoz200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
