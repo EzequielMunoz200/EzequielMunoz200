@@ -1,4 +1,3 @@
-[Cover](https://github.com/EzequielMunoz200/EzequielMunoz200/blob/master/marek-piwnicki-jIlMBLqvnL8-unsplash.jpg)
 ### Hi there 👋
 
 
