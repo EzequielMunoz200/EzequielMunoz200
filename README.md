@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Docker and React
 - 📫 How to reach me: 
     [linkedIn](https://www.linkedin.com/in/ezequiel-munoz/)
+    
+    ![](https://komarev.com/ghpvc/?username=EzequielMunoz200&style=plastic)
+
 <!--
 **EzequielMunoz200/EzequielMunoz200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
