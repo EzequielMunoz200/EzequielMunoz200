@@ -12,6 +12,9 @@
     [linkedIn](https://www.linkedin.com/in/ezequiel-munoz/)
     
     ![](https://komarev.com/ghpvc/?username=EzequielMunoz200&style=plastic)
+    
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMunoz200&theme=blue-green)
+   
 
 <!--
 **EzequielMunoz200/EzequielMunoz200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +30,5 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![stats](https://github-readme-stats.vercel.app/api?username=EzequielMunoz200&show_icons=true)
 -->
