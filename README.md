@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a WordPress project.
-- 🌱 I’m currently learning Docker and React
+- 🔭 I am currently working :
+    - Symfony Framework 5
+    - Vanilla JS
+    - Stripe API
+
+- 🌱 I am currently learning the design patterns and SOLID principles.
+
 - 📫 How to reach me: 
     [linkedIn](https://www.linkedin.com/in/ezequiel-munoz/)
     
