@@ -2,9 +2,8 @@
 
 
 - 🔭 I am currently working :
-    - Symfony Framework 5
+    - Symfony Framework 
     - Vanilla JS
-    - Stripe API
 
 - 🌱 I am currently learning the design patterns and SOLID principles.
 
