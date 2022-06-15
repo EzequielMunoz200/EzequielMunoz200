@@ -5,7 +5,7 @@
     - Symfony Framework 
     - Vanilla JS
 
-- 🌱 I am currently learning the design patterns and SOLID principles.
+- 🌱 I am currently learning NodeJS
 
 - 📫 How to reach me: 
     [linkedIn](https://www.linkedin.com/in/ezequiel-munoz/)
