@@ -3,9 +3,7 @@
 
 - 🔭 I am currently working :
     - Symfony Framework 
-    - Vanilla JS
-
-- 🌱 I am currently learning NodeJS
+    - API Platform
 
 - 📫 How to reach me: 
     [linkedIn](https://www.linkedin.com/in/ezequiel-munoz/)
